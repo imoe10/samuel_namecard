@@ -138,8 +138,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background: url("assets/bgg3.jpg");
-	background-position:top;
+	background-color: #d3d3d3;
 }
 
 .bg-color-white {
