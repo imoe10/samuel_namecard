@@ -7,7 +7,6 @@ body {
   justify-content: center;
   overflow-x:hidden;
   overflow-y:hidden;
-	background: url('assets/bgg1.jpg');
 }
 
 section {
@@ -139,12 +138,8 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background: url('assets/bgg1.jpg');
+	background: url("assets/bgg2.jpg");
 	background-position:top;
-	background-repeat: no-repeat;
-	
-	
-
 }
 
 .bg-color-white {
