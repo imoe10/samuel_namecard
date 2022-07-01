@@ -6,6 +6,7 @@ body {
   margin: 0;
   justify-content: center;
   overflow-x:hidden;
+  overflow-y:hidden;
 }
 
 section {
@@ -176,7 +177,7 @@ img.profile-pic {
 }
 
 .bottom {
-	height: 18%;
+	height: 15%;
 }
 
 .button {
