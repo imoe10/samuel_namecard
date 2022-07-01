@@ -137,18 +137,18 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #171717;
+	background-color: #C0C0C0;
 	
 
 }
 
 .bg-color-white {
-	background-color: #171717;
+	background-color: #C0C0C0;
 }
 
 .text-name {
     font-weight: 400;
-    color: #f1f1f1;
+    color: #000;
     font-size: 28px;
     font-family: 'Cinzel', serif;
 }
