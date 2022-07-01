@@ -138,7 +138,10 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #d3d3d3;
+	background: url("./assets/bgg1.jpg");
+	background-position:top;
+	background-repeat: no-repeat;
+	
 	
 
 }
