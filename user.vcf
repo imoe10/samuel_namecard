@@ -1,12 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Michel;Pedenon;;;
-FN: Michel  Pedenon 
+N:Samuel;Rennes;;;
+FN: Samuel  Rennes 
 ORG:Gamma Creations Co., Ltd;
-TITLE:Technical Manager
-EMAIL;type=INTERNET;type=Email;type=pref:pedenon@gmail.com
+TITLE:Marketing Manager
+EMAIL;type=INTERNET;type=Email;type=pref:samuel@gammacreations.com
 TEL;type=WORK;type=VOICE:+66 2 212 4111
+TEL;type=Home;type=VOICE:+66 87 920 4048
 item1.ADR;type=ADDRESS;type=pref:;;69 Soi Sathu Pradit 16\,Bang Khlo\, Bang Kho Laem\,Bangkok;;;10120;
 item1.X-ABADR:sg
 item2.URL;type=pref:gammacreations.com
